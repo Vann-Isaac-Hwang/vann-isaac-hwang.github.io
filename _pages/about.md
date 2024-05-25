@@ -31,6 +31,11 @@ Frequently used programming languages
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
+# **Maxwell Equations**
+## $\nabla \cdot \vec{E} = \frac {ρ}{s} $
+## $\nabla \cdot \vec{B} = 0$
+## $\nabla \times \vec{E} = -\frac {\partial \vec{B}}{\partial t} $
+## $\nabla \times \vec{B} = μ_0\vec{J}+μ_0ε_0\frac {\partial \vec{E}}{\partial t}$
 
 <!--
 For more info
