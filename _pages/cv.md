@@ -63,3 +63,10 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+# TEST
+# **Maxwell Equations**
+# $\nabla \cdot \vec{E} = \frac {ρ}{s} $
+# $\nabla \cdot \vec{B} = 0$
+# $\nabla \times \vec{E} = -\frac {\partial \vec{B}}{\partial t} $
+# $\nabla \times \vec{B} = μ_0\vec{J}+μ_0ε_0\frac {\partial \vec{E}}{\partial t} $
