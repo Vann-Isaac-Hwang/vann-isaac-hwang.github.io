@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ======
-Just a common student.
+I am a dedicated student with a strong passion for Computer Science, Electronic Technology, Physics, and Mathematics. I consistently strive for excellence in my studies, achieving first place in my school-based major across various professional courses. In addition to my academic pursuits, I actively participate in competitions, including programming contests and mathematical modeling challenges. Notably, I earned a national second prize in the 2024 CUMCM, reflecting my commitment and enthusiasm for these fields.
 
 Frequently used programming languages
 ======
