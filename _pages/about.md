@@ -1,4 +1,3 @@
-<!--
 ---
 permalink: /
 title: "Hello World!"
@@ -7,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
--->
 
 About me
 ======
