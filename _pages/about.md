@@ -1,3 +1,4 @@
+<!--
 ---
 permalink: /
 title: "Hello World!"
@@ -6,16 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+-->
 
 About me
 ======
-I am a dedicated student with a strong passion for Computer Science, Electronic Technology, Physics, and Mathematics. I consistently strive for excellence in my studies, achieving first place in my school-based major across various professional courses. In addition to my academic pursuits, I actively participate in competitions, including programming contests and mathematical modeling challenges. Notably, I earned a national second prize in the 2024 CUMCM, reflecting my commitment and enthusiasm for these fields.
-
-Frequently used programming languages
-======
-* C
-* C++
-* Python
+I am a student with a keen interest in Computer Science, Electronic Technology, Physics, and Mathematics. Beyond coursework, I actively participate in competitions such as programming contests, mathematical modeling, and electronic system design. I earned a National Second Prize in the 2024 CUMCM and a National Second Prize in the 2026 TI Cup (National Undergraduate Electronic Design Contest Analog Electronic System Design Contest).
 
 ![My Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vann-Isaac-Hwang&layout=compact&hide_border=true&langs_count=10)
 
@@ -28,16 +24,18 @@ Frequently used programming languages
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+<!--  ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat) -->
 
+<!--
 # **Test LaTeX formula display**
 ## **Maxwell Equations**
 ## $\nabla \cdot \vec{E} = \frac {ρ}{s} $
 ## $\nabla \cdot \vec{B} = 0$
 ## $\nabla \times \vec{E} = -\frac {\partial \vec{B}}{\partial t} $
 ## $\nabla \times \vec{B} = μ_0\vec{J}+μ_0ε_0\frac {\partial \vec{E}}{\partial t} $
-
+ -->
+ 
 <!--
 For more info
 ------
